@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+logs/*.log
+plan.json
+.venv/
+venv/
+.claude
+.kinet/
+CLAUDE.md
+kinet.config.json
